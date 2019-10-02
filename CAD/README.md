@@ -1,0 +1,1 @@
+Unzip the BCN3DSigmaxR19.STEP.zip to get the BCN3DSigmaxR19.STEP file.
